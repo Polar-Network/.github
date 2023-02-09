@@ -3,7 +3,7 @@ We strive to provide an open source and quality server that does not utilize any
 of the traditional software used in most Minecraft servers.
 
 If you have any bugs to report or features you want to suggest please take a look at our 
-<a class="github-button" href="https://github.com/buttons/github-buttons/discussions" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_high_contrast;" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss buttons/github-buttons on GitHub">Discussions</a>
+<a class="github-button" href="https://github.com/orgs/Polar-Network/discussions" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_high_contrast;" data-icon="octicon-comment-discussion" data-size="large" aria-label="Discuss buttons/github-buttons on GitHub">Discussions</a>
 
 
 Here are some of our repositories you might want to take a look at or use in your future projects:
