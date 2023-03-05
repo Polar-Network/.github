@@ -25,6 +25,7 @@ We strongly suggest using either our Discord server or using the [Discussions Pa
 Project Leaders:
 
 - [@Tofaa2](https://github.com/Tofaa2)
+- [@RennieSs](https://github.com/RennieSs)
 
 And a very special thank you to everyone who contributed to any of the Repositories here, unfortunately Github is limited and does not have a feature yet to display every contributor of an Organization.
 
